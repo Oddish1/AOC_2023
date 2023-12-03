@@ -1,0 +1,3 @@
+# Advent of Code 2023!
+
+This repository contains all of my confirmed solutions for Advent of Code 2023. I am taking advantage of the opportunity to work on solidifying my skills in Python and C++. Therefore most, if not all of the solutions will be done in one of those two languages. If there are solutions that are missing, I just haven't done them yet. Either I didn't have the time or I couldn't figure it out and didn't come back to it yet. Hopefully I will have all of the solutions completed by the end of December 2023, if not the end of the challenge.
